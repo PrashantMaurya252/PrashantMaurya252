@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm Prashant, a passionate developer specializing in **fro
 ## 📫 Get in Touch
 
 - **Email**: mauryaprashant252@gmail.com
-- **LinkedIn**: [Prashant Kumar Maurya](https://www.linkedin.com/in/prashant-kumar-maurya)
+- **LinkedIn**: [Prashant Kumar Maurya](https://www.linkedin.com/in/prashant-kumar-maurya-98a9732b5/)
 
 Feel free to reach out if you'd like to collaborate on a project, or if you have any questions about my work. I'm always open to learning and growing with the community!
 
